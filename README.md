@@ -1,57 +1,103 @@
-LearnMate – AI Personalized Learning Agent
+# LearnMate – AI Personalized Learning Agent
 
-LearnMate is an AI-powered personalized learning assistant designed to help users learn smarter, track progress and stay consistent with their studies.
+## Overview
 
-It combines intelligent content understanding with adaptive learning features like quizzes, flashcards and streak tracking to create a complete learning experience.
+LearnMate is an AI-powered personalized learning assistant designed to help users learn more effectively, track their progress, and maintain consistency in their studies.
 
-Features:
-AI-Powered Learning:
-Uses Gemini API and OpenRouter for intelligent responses
-Generates context-aware explanations from study materials
+The system combines intelligent content understanding with adaptive learning features such as quizzes, flashcards, and progress tracking to create a complete and interactive learning experience.
 
-Document-Based Learning:
-Upload PDFs, notes, or text
-Extracts and understands key concepts
 
-Quiz Generation:
-Auto-generates quizzes based on uploaded content
-Helps in self-evaluation
+## Features
 
-Flashcards:
-Converts concepts into quick revision cards
-Improves memory retention
+### AI-Powered Learning
 
-Daily Streak Tracking:
-Tracks daily learning consistency
-Encourages habit building
+* Uses advanced AI models for intelligent responses
+* Generates context-aware explanations from study materials
 
-Progress Tracking:
-Monitors learning performance
-Helps identify weak areas
+### Document-Based Learning
 
-AI Chat Assistant:
-Ask questions from your materials
-Get instant, accurate answers
+* Upload PDFs, notes, or text
+* Extracts and understands key concepts automatically
 
-Tech Stack:
-Frontend:
-React.js
-Tailwind CSS
+### Quiz Generation
 
-Backend:
-Node.js
-Express.js
+* Automatically generates quizzes from uploaded content
+* Helps users evaluate their understanding
 
-AI Integration:
-Gemini API
-OpenRouter API
+### Flashcards
 
-Database:
-Supabase
+* Converts important concepts into quick revision cards
+* Improves memory retention and revision efficiency
 
-How It Works:
-User uploads study material (PDF or text)
-The system extracts and processes the content
-AI understands and organizes the knowledge
-User interacts through chat, quizzes, or flashcards
-The system tracks progress and adapts learning accordingly
+### Daily Streak Tracking
+
+* Tracks daily learning activity
+* Encourages consistent study habits
+
+### Progress Tracking
+
+* Monitors user performance over time
+* Identifies weak areas for improvement
+
+### AI Chat Assistant
+
+* Allows users to ask questions from their study materials
+* Provides instant and accurate answers
+
+## Technology Stack
+
+### Frontend
+
+* React.js
+* Tailwind CSS
+
+### Backend
+
+* Node.js
+* Express.js
+
+### AI Integration
+
+* Gemini API
+* OpenRouter API
+
+### Database
+
+* Supabase
+
+## System Workflow
+
+1. User uploads study material (PDF or text)
+2. The system extracts and processes the content
+3. AI analyzes and organizes the information
+4. User interacts through chat, quizzes, or flashcards
+5. The system tracks progress and adapts learning accordingly
+
+## Usage
+
+* Upload study materials
+* Ask questions using the AI chat
+* Generate quizzes and flashcards
+* Track your learning progress
+* Maintain daily streaks
+
+## Key Highlights
+
+* Personalized learning experience
+* Adaptive content generation
+* Continuous performance tracking
+* Interactive and user-friendly interface
+
+
+## Future Enhancements
+
+* Add learner-level customization (beginner to expert)
+* Improve real-time response performance
+* Add voice-based interaction
+* Enhance analytics and prediction features
+* Mobile application support
+
+## Conclusion
+
+LearnMate demonstrates how artificial intelligence can transform the learning experience by making it more personalized, interactive, and efficient. It helps users understand concepts better, stay consistent, and improve their performance over time.
+
