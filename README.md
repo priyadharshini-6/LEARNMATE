@@ -5,51 +5,51 @@ LearnMate is an AI-powered personalized learning assistant designed to help user
 It combines intelligent content understanding with adaptive learning features like quizzes, flashcards and streak tracking to create a complete learning experience.
 
 Features:
-AI-Powered Learning
+AI-Powered Learning:
 Uses Gemini API and OpenRouter for intelligent responses
 Generates context-aware explanations from study materials
 
-Document-Based Learning
+Document-Based Learning:
 Upload PDFs, notes, or text
 Extracts and understands key concepts
 
-Quiz Generation
+Quiz Generation:
 Auto-generates quizzes based on uploaded content
 Helps in self-evaluation
 
-Flashcards
+Flashcards:
 Converts concepts into quick revision cards
 Improves memory retention
 
-Daily Streak Tracking
+Daily Streak Tracking:
 Tracks daily learning consistency
 Encourages habit building
 
-Progress Tracking
+Progress Tracking:
 Monitors learning performance
 Helps identify weak areas
 
-AI Chat Assistant
+AI Chat Assistant:
 Ask questions from your materials
 Get instant, accurate answers
 
 Tech Stack:
-Frontend
+Frontend:
 React.js
 Tailwind CSS
 
-Backend
+Backend:
 Node.js
 Express.js
 
-AI Integration
+AI Integration:
 Gemini API
 OpenRouter API
 
-Database
+Database:
 Supabase
 
-How It Works
+How It Works:
 User uploads study material (PDF or text)
 The system extracts and processes the content
 AI understands and organizes the knowledge
