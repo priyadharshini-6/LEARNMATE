@@ -1,0 +1,16 @@
+project_id = "llyfmvaefbsupxjcayeq"
+
+[functions.rag-query]
+verify_jwt = false
+
+[functions.extract-pdf]
+verify_jwt = false
+
+[functions.extract-url]
+verify_jwt = false
+
+[functions.generate-flashcards]
+verify_jwt = false
+
+[functions.generate-quiz]
+verify_jwt = false
